@@ -1,0 +1,19 @@
+title: uuuSanAI
+description: "Game Dev × AI — 개발 일지 & 포트폴리오"
+url: "https://uuusan-wanja.github.io"
+baseurl: ""
+
+theme: minima
+
+author:
+  name: uuuSan
+
+permalink: /:categories/:year/:month/:day/:title/
+
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "post"
+      author: "uuuSan"
