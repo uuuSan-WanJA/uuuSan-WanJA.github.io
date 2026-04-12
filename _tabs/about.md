@@ -26,6 +26,8 @@ AI 에이전트를 활용한 게임 개발에 관심이 많고, 그 과정에서
 |---------|------|
 | **GameMaker** | AI 에이전트가 게임을 만드는 프레임워크 |
 | **GameMakerEngine** | GameMaker의 에이전트를 경쟁/진화시키는 내부 도구 |
+| **GameMakerEngineHelper** | GameMakerEngine을 새로운 눈으로 분석하고 개발 계획을 관리하는 Codex 에이전트 |
+| **GameMakerCollabMonitor** | Engine과 Helper가 짧은 세션 사이클로 협업할 수 있도록 조율하는 Codex 도구 |
 | **MissionDirector** | 목표 관리 및 미션 부여/추적하는 AI 업무환경 허브 |
 | **Git Storyteller** | git 히스토리를 분석해 개발 스토리를 자동 생성하는 CLI 도구 |
 
