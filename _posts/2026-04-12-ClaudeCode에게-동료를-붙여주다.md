@@ -1,5 +1,5 @@
 ---
-title: "에이전트에게 동료를 붙여주다"
+title: "ClaudeCode에게 동료를 붙여주다"
 date: 2026-04-12
 categories: [개발일지]
 tags: [GameMakerEngine, Codex, 멀티에이전트, 비용최적화, AI에이전트]
