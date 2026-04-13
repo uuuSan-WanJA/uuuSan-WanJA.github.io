@@ -1,5 +1,5 @@
 ---
-title: "Ralph Wiggum — 격리된 컨텍스트의 루프"
+title: "Ralph Wiggum — 격리된 컨텍스트 루프"
 date: 2026-04-13
 categories: [AI 시스템 리서치, 하네스 엔지니어링]
 tags: [하네스엔지니어링, RalphWiggum, ClaudeCode, 에이전트, 컨텍스트관리]
