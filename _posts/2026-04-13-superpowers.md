@@ -1,5 +1,5 @@
 ---
-title: "Superpowers — 한 번 이해하고 가기"
+title: "Superpowers — 규율이 품질을 만든다"
 date: 2026-04-13
 categories: [AI 시스템 리서치, 하네스 엔지니어링]
 tags: [하네스엔지니어링, Superpowers, ClaudeCode, TDD, SKILL.md, 프로세스디시플린]
