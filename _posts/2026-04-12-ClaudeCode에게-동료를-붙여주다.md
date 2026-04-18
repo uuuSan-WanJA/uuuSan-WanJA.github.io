@@ -1,7 +1,7 @@
 ---
 title: "ClaudeCode에게 동료를 붙여주다"
 date: 2026-04-12
-categories: [개발일지]
+categories: [개발일지, GameMakerEngine]
 tags: [GameMakerEngine, Codex, 멀티에이전트, 비용최적화, AI에이전트]
 ---
 
